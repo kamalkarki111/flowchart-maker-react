@@ -7,7 +7,6 @@ import ReactFlow, {
   ReactFlowProvider,
   useNodesState,
   useEdgesState,
-  Panel,
 } from "reactflow";
 import "reactflow/dist/style.css";
 import { SimpleNode } from "./SimpleNode";
